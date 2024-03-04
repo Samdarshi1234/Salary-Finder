@@ -1,0 +1,1 @@
+worker: python salary.py
